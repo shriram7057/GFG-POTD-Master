@@ -161,4 +161,67 @@ cd gfg-potd-mastery
   </tr>
 
 </table>
+<h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 🤝</h3>
+
+<table border="2" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Platform</th>
+    <th>Profile</th>
+  </tr>
+
+  <tr>
+    <td>GitHub</td>
+    <td>
+      <a href="https://github.com/shriram7057?tab=repositories">
+        <img src="https://img.shields.io/badge/GitHub-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>LeetCode</td>
+    <td>
+      <a href="https://leetcode.com/u/shriram_lahane/">
+        <img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>GeeksforGeeks</td>
+    <td>
+      <a href="https://www.geeksforgeeks.org/profile/shriram01">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Kaggle</td>
+    <td>
+      <a href="https://www.kaggle.com/shriramlahane">
+        <img src="https://img.shields.io/badge/Kaggle-Profile-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>HackerRank</td>
+    <td>
+      <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+        <img src="https://img.shields.io/badge/HackerRank-Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Microsoft Learn</td>
+    <td>
+      <a href="https://learn.microsoft.com/en-us/users/shriramlahane-5587/achievements?tab=tab-modules&source=docs">
+        <img src="https://img.shields.io/badge/Microsoft_Learn-Profile-0D1117?style=for-the-badge&logo=microsoft&logoColor=258FFA" />
+      </a>
+    </td>
+  </tr>
+
+</table>
 
