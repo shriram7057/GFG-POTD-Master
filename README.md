@@ -94,7 +94,7 @@ cd gfg-potd-mastery
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
 </a>
 
-</p><h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 𝗼𝗻 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 🤝</h3>
+</p><h3>𝗚𝗲𝘁 𝗶𝗻 𝗧𝗼𝘂𝗰𝗵 🤝</h3>
 
 <table border="2" cellpadding="10" cellspacing="0">
   <tr>
